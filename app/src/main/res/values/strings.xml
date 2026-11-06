@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Recordatorios</string>
+    <string name="titulo_pantalla">Mis recordatorios</string>
+    <string name="resumen">%1$d recordatorios · %2$d categorías · %3$d pendientes · %4$d prioridad alta</string>
+    <string name="prioridad">Prioridad: %1$s</string>
+    <string name="estado">Estado: %1$s</string>
+    <string name="fecha_limite">Vence: %1$s</string>
+</resources>
